@@ -1,0 +1,4 @@
+function Myfunction(name) {
+console.log("helloWorld" + name);
+}
+Myfunction("chuong");
