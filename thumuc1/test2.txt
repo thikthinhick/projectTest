@@ -2,3 +2,4 @@ function Myfunction(name) {
 console.log("helloWorld" + name);
 }
 Myfunction("chuong");
+Hom nay tui buon
